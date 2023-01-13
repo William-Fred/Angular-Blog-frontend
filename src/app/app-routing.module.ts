@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
-import { routerConfig } from './Routing/top-menu.config'
+import { RouterModule } from '@angular/router';
+import { routerConfig } from './routing/top-menu.config'
 
 routerConfig;
 
